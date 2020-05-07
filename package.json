@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/jeremyscalpello/chip-gpio#readme",
   "dependencies": {
-    "epoll": "^0.1.16"
+    "epoll": "^2.0.0"
   }
 }
